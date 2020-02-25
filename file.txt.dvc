@@ -1,0 +1,7 @@
+md5: bc1ce15bcbb166cb817e6e6e0285263a
+outs:
+- md5: 7908bd7d420be6d150f19fa3e807d50e
+  path: file.txt
+  cache: true
+  metric: false
+  persist: false
